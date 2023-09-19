@@ -339,7 +339,7 @@ resource.
 
 ```py
 # example only
-
+g 
 from flask import redirect
 
 @app.route('/reginald-kenneth-dwight')
